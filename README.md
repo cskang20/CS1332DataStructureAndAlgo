@@ -1,7 +1,7 @@
 # CS1332DataStructureAndAlgo
 
-HW 1 Singly Linked List
-HW 2 Stacks & Queues
+- HW 1 Singly Linked List
+- HW 2 Stacks & Queues
 HW 3 Binary Search Tree
 HW 4 HashMap (linear probing collision resolution strategy)
 HW 5 AVL
